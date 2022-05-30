@@ -5,5 +5,8 @@ These breweries produced 104 beer styles
 22548 users reviewed these beers
 In total, 14938 beers were reviewed
 
+For the Dataset, please refer the below google drive link,
+https://drive.google.com/open?id=1e-kyoB97a5tnE7X4T4Es4FHi4g6Trefq
+
 As the file uploaded is a .ipynb file, The file is supposed to be opened in a jupyter notebook or any IDE that supports .ipynb files
 For any library that is not installed, run the command 'pip install <library_name>'
